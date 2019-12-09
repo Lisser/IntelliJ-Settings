@@ -1,0 +1,34 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="DomCollectionControl.Add">
+    <keyboard-shortcut first-keystroke="insert" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="DomElementsTreeView.AddElement">
+    <keyboard-shortcut first-keystroke="insert" />
+    <keyboard-shortcut first-keystroke="ctrl insert" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="EditorCopy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="QuickDocCopy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="XDebugger.CopyValue">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
+</keymap>
